@@ -39,14 +39,14 @@
   <!-- LinkedIn -->
   <p>
     <a target="_blank" href="https://www.linkedin.com/in/femiojeyemi" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" target="_blank" rel="noopener noreferrer" alt="LinkedIn" />
     </a>
   </p>
 
   <!-- Portfolio -->
   <p>
     <a target="_blank" href="https://www.femiojeyemi.com" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=vercel&logoColor=white&color=000000" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=vercel&logoColor=white&color=000000" target="_blank" rel="noopener noreferrer" alt="Portfolio" />
     </a>
   </p>
 </div>
