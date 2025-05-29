@@ -35,21 +35,16 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<div style="display: flex; gap: 5px;">
-  <!-- LinkedIn -->
-  <p>
-    <a target="_blank" href="https://www.linkedin.com/in/femiojeyemi" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" target="_blank" rel="noopener noreferrer" alt="LinkedIn" />
-    </a>
-  </p>
 
-  <!-- Portfolio -->
-  <p>
-    <a target="_blank" href="https://www.femiojeyemi.com" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=vercel&logoColor=white&color=000000" target="_blank" rel="noopener noreferrer" alt="Portfolio" />
-    </a>
-  </p>
-</div>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/femiojeyemi" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" target="_blank" rel="noopener noreferrer" alt="LinkedIn" />
+  </a>
+</p><p>
+  <a target="_blank" href="https://www.femiojeyemi.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=vercel&logoColor=white&color=000000" target="_blank" rel="noopener noreferrer" alt="Portfolio" />
+  </a>
+</p>
 
 <!-- GitHub Stats -->
 <p>
