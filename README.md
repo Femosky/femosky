@@ -1,5 +1,6 @@
 <h1>Hey there 👋, I'm Femi</h1>
 <p>A full stack developer in Canada who loves crafting clean, functional web and mobile experiences with React, Node.js, and Swift.</p>
+<p>Currently working on <span><a target="_blank" href="https://github.com/Femosky/project-forum-backend">Project Forum</a></span></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
